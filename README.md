@@ -5,8 +5,10 @@ b) Interest of the user
 # Requirements
 Graphlab Create  
 Anaconda2  
-IPython Notebook 
-# 
+IPython Notebook
+# Steps
+Download the song_data.sframe zipped file.  
+Then   
 To get the song list based on popularity run popularity.py  
 To get the song list based on personal interest run personalized.py
 
